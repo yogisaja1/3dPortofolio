@@ -1,0 +1,14 @@
+1. Install react dengan perintah
+npm create vite@latest ./ -- --template react
+2. Jalankan installasi tailwind
+npm install -D tailwindcss
+npx tailwindcss init
+3. Kemudian threejs dkk
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+4. untuk membuat logo bisa di web logo.com
+5. Menginstall ini : npm install --legacy-peer-deps -D postcss autoprefixer kemudian : npx tailwindcss init -p
+6. Menggunakan email js di web : emailjs.com
+
+
+menit : 1:58:29
